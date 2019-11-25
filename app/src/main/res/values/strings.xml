@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">Cape Town Tour App</string>
+    <string name="about_events">Events</string>
+    <string name="about_monuments">Monuments</string>
+    <string name="about_parks">Parks</string>
+    <string name="about_restaurants">Restaurants</string>
+
+    <string name="kwaAce_tittle">Kwa Ace:</string>
+    <string name="kwaAve_text">\nAce Info:\n\nKwa Ace is situated in the heart of Khayelitsha at number 158 Phakamani Street, Ace is a pub and grill that opens between the hours of 11am-2am from Friday to Sunday. Kwa Ace has two dance floors, the bottom floor to serve the general people and includes 4 VIP Rooms and a dining area and the upper level is a restricted VVIP area with pocked lounges and plays soulful, lounge and deep house music.</string>
+
+    <string name="rands_tittle">Rands Cape Town:</string>
+    <string name="rands_text">\nRands Cape Town Info:\n\nRands Lifestyle Space in Khayelitsha, is where class and a helluva good time coincide. Launched officially in August 2015, this open-seven-days-a-week joint is where folks can dance until the sun comes up, eat tasty traditional food and mingle with like minded people in style.</string>
+
+    <string name="constantia_tittle">Wine-Tasting in Constantia:</string>
+    <string name="constantia_text">\nWine-Tasting in Constantia Info:\n\nThe boutique wine farm that hosts Liam Tomlin and Ivor Jones\’ acclaimed Chefs Warehouse Restaurant also offers wine-tasting experiences, where you can sample some of the fine vintages produced on the estate. Here, on the slopes of Constantia Nek, you\’ll have awe-inspiring views of the Helderberg Mountains and the surrounding valley.</string>
+
+    <string name="biscuits_tittle">Old Biscuits Mill:</string>
+    <string name="biscuits_text">\nOld Biscuits Mill Info:\n\nWe love The Old Biscuit Mill for its vibe and the variety of things to do, see, eat and covet! But the thing that makes it extra-special is that it\’s all housed in one convenient nook, which means you can hop from a good espresso to a spot of designer shopping to a top-notch meal, and more, without the schlep of getting into your car (or calling an Uber).
+                                 Its many attractions include the Neighbourgoods Market (open every Saturday, rain or shine); Luke-Dale Roberts\’ acclaimed restaurant The Test Kitchen (and its more casual sister, The Pot Luck Club); cool shops selling hand-crafted fashion, art, decor and accessories; Hendre Louw Private Gallery for photography enthusiasts; and Clementina Ceramics for pottery fans.</string>
+
+    <string name="greenPoint_tittle">Green Point Park and Biodiversity Garden:</string>
+    <string name="greenPoint_text">\nGreen Point Park and Biodiversity Garden Info:\n\nA little Eden in the middle of the Mother City, right below the Cape Town Stadium, lies a curated garden, rich with a wide variety of indigenous Cape flora. Enjoy a spontaneous afternoon letting the kids run free on the open lawn, picnicking in the warmth of the summer sun, or going for a walk, run or cycle in the fresh air surrounded by the sounds of the ocean. Could an outdoor space tick more boxes?
+                                   Good to know Tea in the Park Café does a selection of delicious sweet and savoury treats, fresh lunches, and breakfasts.</string>
+
+    <string name="durbanville_tittle">Durbanville Rose Garden:</string>
+    <string name="durbanville_text">\nDurbanville Rose Garden Info:\n\nThis flourishing, well-maintained garden is home to around 6 000 rose bushes, including 500 different species. The best time to view these wonderfully fragrant blooms is from October until May, when the bushes are full of colour. On Sundays visitors are invited for a cup of tea in the tearoom, courtesy of the various charity organisations.
+                                    Good to know The venue has become increasingly popular for weekend weddings during summer, so if you don’t want to photobomb the bride – or, worse, the bride to photobomb you – you might like to visit during the week.</string>
+
+    <string name="company_tittle">Company’s Garden:</string>
+    <string name="company_text">\nCompany’s Garden Info:\n\nThis historic garden, first made public in 1848, is home to some important South African landmarks including the Houses of Parliament, Iziko South African Museum and Planetarium, St George\’s Cathedral, and the National Library of South Africa, to name a few.
+                                In recent years it\’s become a haven in the middle of the busy city, where tourists and locals can stroll, throw down a blanket, and feed the squirrels.
+                                With botanically and historically valuable trees, a bird aviary, rose garden, and always-ravenous squirrels, this garden has stood the test of time. Feel free to picnic on the lawn and soak up some summer sun.
+                                Good to know The Company’s Garden Restaurant serves food (that’s nothing to write home about), but at least it gives you time to have a cup of tea and slice of cake, while the kids climb into the giant Pokey Hefer-designed birds\’ nests.</string>
+
+    <string name="kirstenbosch_tittle">Kirstenbosch National Botanical Garden:</string>
+    <string name="kirstenbosch_text">\nKirstenbosch National Botanical Garden Info:\n\nCape Town’s answer to Eden is wonderful for picnics, leisurely strolls, nighttime movies, and open-air concerts. The flowery meadows are safe and spacious for kids to run around – or they might prefer to sit and observe the birds and insects if they’re in a more contemplative mood. They’ll especially love the tree canopy walkway, named The Boomslang, which is so Jurassic, you almost expect a pack of Velociraptors to burst out of the bushes at any moment. Not to mention the exhibit of life-size dinosaur sculptures!</string>
+
+    <string name="parliarment_tittle">House of Parliament:</string>
+    <string name="parliarment_text">\nHouse of Parliament Info:\n\nThe oldest section of the buildings of Parliament, which today houses the National Council of Provinces, was completed in 1885. The original design was by Charles FREEMAN. Various financial and building problems were experienced and the project was re-allocated to the Scottish architect Henry GREAVES, who had just joined the DEPARTMENT OF THE PUBLIC WORKS. In the end the building took 10 years to complete, from 1875 to 1885, and cost £220 000 - more than five times the initial budget of £40 000.</string>
+
+    <string name="huguenot_tittle">Huguenot Monument:</string>
+    <string name="huguenot_text">\nHuguenot Monument Info:\n\nThe Huguenot Monument in Franschhoek, Western Cape, South Africa, is dedicated to the cultural influences that Huguenots have brought to the Cape Colony after their immigration during the 17th and 18th centuries. The French and Belgian Protestants were fleeing religious persecution, especially in Catholic France.</string>
+
+    <string name="afrikaans_tittle">Afrikaans Language Monument:</string>
+    <string name="afrikaans_text">\nAfrikaans Language Monument Info:\n\nThe Afrikaans Language Monument is located on a hill overlooking Paarl, Western Cape Province, South Africa. Officially opened on 10 October 1975, it commemorates the semicentenary of Afrikaans being declared an official language of South Africa separate from Dutch.</string>
+
+    <string name="rhodes_tittle">Rhodes Memorial:</string>
+    <string name="rhodes_text">\nRhodes Memorial Info:\n\nbuilt in remembrance of Cecil John Rhodes who contributed greatly to the formation of the sub continent, lies on the northern flank of Table Mountain, at the base of Devil’s Peak in Cape Town, which is affectionately known as the Mother City.</string>
+
+    <string name="milk_tittle">The Milk Restaurant and Bar:</string>
+    <string name="milk_text">\nThe Milk Restaurant Info:\n\nAll-new The Milk Restaurant and Bar is an awesome new upmarket eatery to check out in Khayelitsha. The best part? It\'s the result of years of hard work by a local entrepreneur who started out selling braaied chicken on the side of the road. Now, his menu is designed by a top chef and he hosts events and functions.</string>
+
+    <string name="overture_tittle">Overture Restaurant:</string>
+    <string name="overture_text">\nOverture Restaurant Info:\n\nOverture Restaurant at Hidden Valley Wine Estate is one of many celebrated wine estate restaurants in the Cape. It regularly features in the country’s Top 10 lists, and the three- and six-course tasting menus will keep you locked in at the beautiful restaurant for a considerable amount of time. When you consider the décor, and the beautiful, sweeping views, this seems like a rather good problem to have.</string>
+
+    <string name="shortmarket_tittle">The Shortmarket Restaurant:</string>
+    <string name="shortmarket_text">\nThe Shortmartket Info:\n\nThe team of award-winning chefs who banded together to form The Shortmarket Club have struck restaurant gold. This modern restaurant in the heart of the city serves both lunch and dinner in comfortable, stylish surroundings. There\’s an obvious touch from chef and restauranteur Luke Dale-Roberts, which can only be a good thing – service is prompt and professional, and the small but creative menu will have you pouring between a range of delectable-sounding dishes, and then resolving to return for those you weren\’t able to taste.</string>
+
+    <string name="roomed_tittle">4Roomed Ekasi Culture:</string>
+    <string name="roomed_text">\n4Roomed Ekasi Culture Info:\n\n4Roomed eKasi Culture, a lifestyle concept based on the four roomed homes found in the oldest townships of South Africa. A life celebrated through great food, beautiful home decor and art, and the most inconceivable lifestyle ideas…..evoking a sense of nostalgia while promoting an inclusive hub for all who live and visit South Africa!</string>
+
+</resources>
